@@ -1,4 +1,0 @@
-Labs
-====
-
-Itech labs
